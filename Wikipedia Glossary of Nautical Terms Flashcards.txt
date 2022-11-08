@@ -317,10 +317,10 @@
 
 <dt class="glossary" id="azimuth_thruster" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Azimuth_thruster" title="Azimuth thruster">azimuth thruster</a></dfn></dt>
 <dd class="glossary">Steerable drive leg fitted through the bottom of a hull, carrying a propeller. Compare with <span title="See entry on this page at § stern drive" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#stern_drive" title="Glossary of nautical terms (M-Z)">stern drive</a></span> and <span title="See entry on this page at § sail drive" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#sail_drive" title="Glossary of nautical terms (M-Z)">sail drive</a></span> </dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(A-L)&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="b_&amp;_r_rig" style="margin-top: 0.4em;"><dfn class="glossary">B &amp; R rig</dfn></dt>
 <dd class="glossary">A style of standing rigging used on sailboats that lacks a <a href="#backstay"><span title="See entry on this page at § backstay" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">backstay</span></a>. The mast is said to be supported like a "tripod", with swept-back spreaders and a <a href="#forestay"><span title="See entry on this page at § forestay" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">forestay</span></a>. Used widely on Hunter brand sailboats, among others. Designed and named by Lars Bergstrom and Sven Ridder.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2020)">citation needed</span></a></i>&#93;</sup></dd>
 
@@ -1030,10 +1030,10 @@ Apocryphally, it is often claimed that a brass monkey was a frame used to hold c
 
 <dt class="glossary" id="by_the_board" style="margin-top: 0.4em;"><dfn class="glossary">by the board</dfn></dt>
 <dd class="glossary">Anything that has gone <span title="See entry on this page at § overboard" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#overboard" title="Glossary of nautical terms (M-Z)">overboard</a></span>.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(A-L)&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="cabin" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Cabin_(ship)" title="Cabin (ship)">cabin</a></dfn></dt>
 <dd class="glossary">An enclosed room on a <a href="#deck"><span title="See entry on this page at § deck" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">deck</span></a> or flat, especially one used as living quarters.</dd>
 
@@ -1586,10 +1586,10 @@ Apocryphally, it is often claimed that a brass monkey was a frame used to hold c
 <dt class="glossary" id="cutwater" style="margin-top: 0.4em;"><dfn class="glossary">cutwater</dfn></dt>
 <dd class="glossary">The forward curve of the <span title="See entry on this page at § stem" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#stem" title="Glossary of nautical terms (M-Z)">stem</a></span> of a ship.</dd>
 
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(A-L)&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="daggerboard" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Daggerboard" title="Daggerboard">daggerboard</a></dfn></dt>
 <dd class="glossary">A type of light <a href="#centerboard"><span title="See entry on this page at § centerboard" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">centerboard</span></a> that is lifted vertically; sometimes in pairs, with the <a href="#leeward"><span title="See entry on this page at § leeward" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">leeward</span></a> one lowered when <a href="#beating"><span title="See entry on this page at § beating" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">beating</span></a>.</dd>
 
@@ -1924,10 +1924,10 @@ Apocryphally, it is often claimed that a brass monkey was a frame used to hold c
 
 <dt class="glossary" id="dutch_built" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Dutch_built&amp;action=edit&amp;redlink=1" class="new" title="Dutch built (page does not exist)">Dutch built</a></dfn></dt>
 <dd class="glossary">Term of abuse implying shoddiness or (when directed at a person) stupidity or stubbornness, usually embellished with other oaths and insults tagged on fore and aft.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(A-L)&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="earings" style="margin-top: 0.4em;"><dfn class="glossary">earings</dfn></dt>
 <dd class="glossary">Small lines by which the uppermost corners of the largest sails are secured to the <span title="See entry on this page at § yardarm" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#yardarm" title="Glossary of nautical terms (M-Z)">yardarms</a></span>.</dd>
 
@@ -1972,10 +1972,10 @@ Apocryphally, it is often claimed that a brass monkey was a frame used to hold c
 
 <dt class="glossary" id="eye_splice" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Eye_splice" title="Eye splice">eye splice</a></dfn></dt>
 <dd class="glossary">A closed loop or eye at the end of a line, rope, cable, etc. It is made by unraveling its end and joining it to itself by intertwining it into the lay of the line. Eye <a href="/wiki/Rope_splicing" title="Rope splicing">splices</a> are very strong and compact and are frequently employed in moorings and docking lines, among other uses.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(A-L)&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="factory_ship" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Factory_ship" title="Factory ship">factory ship</a></dfn></dt>
 <dd class="glossary">A large oceangoing vessel with extensive on-board facilities for processing and freezing caught fish or whales. Some also serve as <span title="See entry on this page at § mother ship" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#mother_ship" title="Glossary of nautical terms (M-Z)">mother ships</a></span> for smaller fishing or whaling vessels. Those used for processing fish are also known as <i>fish processing vessels</i>.</dd>
 
@@ -2377,10 +2377,10 @@ Apocryphally, it is often claimed that a brass monkey was a frame used to hold c
 
 <dt class="glossary" id="futtocks" style="margin-top: 0.4em;"><dfn class="glossary">futtocks</dfn></dt>
 <dd class="glossary">Pieces of timber that make up a large transverse <a href="#frame"><span title="See entry on this page at § frame" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">frame</span></a>.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(A-L)&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="gaff" style="margin-top: 0.4em;"><dfn class="glossary">gaff</dfn></dt>
 <dd class="glossary">1.&#160;&#160;(<a href="/wiki/Gaff_rig" title="Gaff rig">gaff rig</a>) A <span title="See entry on this page at § spar" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#spar" title="Glossary of nautical terms (M-Z)">spar</a></span> that holds the upper edge of a four-sided <a href="#fore-and-aft_rig"><span title="See entry on this page at § fore-and-aft rig" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">fore-and-aft-mounted</span></a> sail. On a hoisting gaff, the lower end is supported by gaff jaws which partly encircle the mast; it is hoisted using <span title="See entry on this page at § peak" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#peak" title="Glossary of nautical terms (M-Z)">peak</a></span> and <span title="See entry on this page at § throat" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#throat" title="Glossary of nautical terms (M-Z)">throat</a></span> <a href="#halliard"><span title="See entry on this page at § halliard" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">halliards</span></a>. A standing gaff remains aloft, its sails brailed when not in use.<sup id="cite_ref-FOOTNOTEUnderhill1955109_59-4" class="reference"><a href="#cite_note-FOOTNOTEUnderhill1955109-59">&#91;59&#93;</a></sup></dd>
 <dd class="glossary">2.&#160;&#160;(<a href="/wiki/Fishing_gaff" title="Fishing gaff">fishing gaff</a>) A hook on a long pole used to haul in fish.</dd>
@@ -2631,10 +2631,10 @@ Apocryphally, it is often claimed that a brass monkey was a frame used to hold c
 
 <dt class="glossary" id="gypsy_winch" style="margin-top: 0.4em;"><dfn class="glossary">gypsy winch</dfn></dt>
 <dd class="glossary">A type or component of an anchor winch. The "gypsy" or "gypsy wheel" engages the anchor chain.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(A-L)&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="half-breadth_plan" style="margin-top: 0.4em;"><dfn class="glossary">half-breadth plan</dfn></dt>
 <dd class="glossary">In <a href="/wiki/Shipbuilding" title="Shipbuilding">shipbuilding</a>, an <a href="/wiki/Elevation_(view)" class="mw-redirect" title="Elevation (view)">elevation</a> of the lines of a ship, viewed from above and divided lengthwise.</dd>
 
@@ -2916,10 +2916,10 @@ Apocryphally, it is often claimed that a brass monkey was a frame used to hold c
 <dt class="glossary" id="hydroplane" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hydroplane_(boat)" title="Hydroplane (boat)">hydroplane</a></dfn></dt>
 <p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">also <b>hydro</b> or <b>thunderboat</b></span></p>
 <dd class="glossary">A fast motorboat with a <a href="#hull"><span title="See entry on this page at § hull" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hull</span></a> shaped so that at speed <span title="See entry on this page at § Plane" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#Plane" title="Glossary of nautical terms (M-Z)">planing</a></span> forces support the boat′s weight, rather than simple <a href="#buoyancy"><span title="See entry on this page at § buoyancy" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">buoyancy</span></a>. A hydroplane moving at speed thus relies on the water for <a href="/wiki/Lift_(force)" title="Lift (force)">lift</a> instead of buoyancy.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(A-L)&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="icebreaker" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Icebreaker" title="Icebreaker">icebreaker</a></dfn></dt>
 <dd class="glossary">A special-purpose ship or boat designed to move and navigate through ice-covered waters.</dd>
 
@@ -2982,10 +2982,10 @@ Apocryphally, it is often claimed that a brass monkey was a frame used to hold c
 
 <dt class="glossary" id="island" style="margin-top: 0.4em;"><dfn class="glossary">island</dfn></dt>
 <dd class="glossary">The <a href="/wiki/Superstructure" title="Superstructure">superstructure</a> of an <a href="/wiki/Aircraft_carrier" title="Aircraft carrier">aircraft carrier</a> that extends above the <a href="/wiki/Flight_deck" title="Flight deck">flight deck</a>. A carrier that lacks one is said to be <a href="#flush_deck"><span title="See entry on this page at § flush deck" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">flush-decked</span></a>.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(A-L)&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="jack" style="margin-top: 0.4em;"><dfn class="glossary">jack</dfn></dt>
 <dd class="glossary">1.&#160;&#160;A <span title="See entry on this page at § sailor" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#sailor" title="Glossary of nautical terms (M-Z)">sailor</a></span>. Also <b>jack tar</b> or just <b>tar</b>.</dd>
 <dd class="glossary">2.&#160;&#160;(<a href="/wiki/Jack_(flag)" title="Jack (flag)">jack (flag)</a>) A national or other official flag flown on a short <a href="#jackstaff"><span title="See entry on this page at § jackstaff" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">jackstaff</span></a> at the <a href="#bow"><span title="See entry on this page at § bow" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">bow</span></a> of a vessel indicating nationality or subordination to a navy or other particular seagoing service or to a government department or subnational government (such as a state or province), or to indicate membership in a <span title="See entry on this page at § yacht club" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#yacht_club" title="Glossary of nautical terms (M-Z)">yacht club</a></span>. Typically, crew members spoke of the jack as if it were a member of the crew. A jack contrasts with an <a href="#ensign"><span title="See entry on this page at § ensign" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">ensign</span></a>, which is a flag with a generally similar purpose flown from the vessel′s <span title="See entry on this page at § stern" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#stern" title="Glossary of nautical terms (M-Z)">stern</a></span>. Typically, vessels fly a jack while in port and an ensign while at sea (in daylight hours).</dd>
@@ -3063,10 +3063,10 @@ Apocryphally, it is often claimed that a brass monkey was a frame used to hold c
 
 <dt class="glossary" id="jury_rig" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Jury_rig" class="mw-redirect" title="Jury rig">jury rig</a></dfn></dt>
 <dd class="glossary">Both the act of <span title="See entry on this page at § rigging" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#rigging" title="Glossary of nautical terms (M-Z)">rigging</a></span> a temporary <span title="See entry on this page at § mast" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#mast" title="Glossary of nautical terms (M-Z)">mast</a></span> and/or <span title="See entry on this page at § sail" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#sail" title="Glossary of nautical terms (M-Z)">sails</a></span> and the name of the resulting rig. A jury rig would be built at sea when the original rig was damaged, and then used to sail to a harbor or other safe place for permanent repairs. Also used as a general term for a temporary repair, hence "jury rudder", "jury tiller", etc.<sup id="cite_ref-FOOTNOTEMayne2000158_77-0" class="reference"><a href="#cite_note-FOOTNOTEMayne2000158-77">&#91;77&#93;</a></sup></dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(A-L)&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="kaep" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Kaep" title="Kaep">kaep</a></dfn></dt>
 <dd class="glossary">A type of <a href="/wiki/Proa" title="Proa">proa</a> native to <a href="/wiki/Palau" title="Palau">Palau</a>.<sup id="cite_ref-78" class="reference"><a href="#cite_note-78">&#91;78&#93;</a></sup></dd>
 
@@ -3141,10 +3141,10 @@ Apocryphally, it is often claimed that a brass monkey was a frame used to hold c
 
 <dt class="glossary" id="know_the_ropes" style="margin-top: 0.4em;"><dfn class="glossary">know the ropes</dfn></dt>
 <dd class="glossary">A sailor who <i>knows the ropes</i> can identify all the many ropes used in working a sailing vessel. On a square rigged ship, there would typically be more than 130 named ropes in the running rigging which are made fast at deck level – the majority of these are duplicated on both the port and starboard sides, so doubling that count.<sup id="cite_ref-FOOTNOTEUnderhill1946280–288_80-0" class="reference"><a href="#cite_note-FOOTNOTEUnderhill1946280–288-80">&#91;80&#93;</a></sup> In order to know the ropes, a sailor must first <i><a href="#learn_the_ropes"><span title="See entry on this page at § learn the ropes" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">learn the ropes</span></a></i>. There were conventions with the positioning of all the many ropes <a href="#belay"><span title="See entry on this page at § belay" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">belay</span></a>ed at deck level on a square-rigged ship, so a newly signed-on hand would quickly know where to find a particular rope on a strange ship.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(A-L)&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="lace" style="margin-top: 0.4em;"><dfn class="glossary">lace</dfn></dt>
 <dd class="glossary">To attach a <span title="See entry on this page at § sail" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#sail" title="Glossary of nautical terms (M-Z)">sail</a></span> to a <span title="See entry on this page at § spar" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(M-Z)#spar" title="Glossary of nautical terms (M-Z)">spar</a></span> by passing a rope through eyelet holes and around the spar or its <a href="#jackstay"><span title="See entry on this page at § jackstay" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">jackstay</span></a>.<sup id="cite_ref-Thames_Sailing_Barge_glossary_2-71" class="reference"><a href="#cite_note-Thames_Sailing_Barge_glossary-2">&#91;2&#93;</a></sup></dd>
 
@@ -3470,7 +3470,7 @@ To bring a vessel into the wind and hold her stationary. A vessel doing this is 
 
 <dt class="glossary" id="lying_to" style="margin-top: 0.4em;"><dfn class="glossary">lying to</dfn></dt>
 <dd class="glossary">See <i><a href="#lie_to"><span title="See entry on this page at § lie to" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">lie to</span></a></i>.</dd>
-</dl>
+
 
 
 
@@ -3739,10 +3739,10 @@ To bring a vessel into the wind and hold her stationary. A vessel doing this is 
 
 <dt class="glossary" id="m.y._(or_my)" style="margin-top: 0.4em;"><dfn class="glossary">M.Y. (or MY)</dfn></dt><span class="anchor" id="MY"></span>
 <dd class="glossary">An abbreviation for <i><a href="/wiki/Motor_Yacht" class="mw-redirect" title="Motor Yacht">Motor Yacht</a></i>, used before a yacht's name.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=2" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="natural_harbour" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Harbor#Natural_harbors" title="Harbor">natural harbour</a></dfn></dt>
 <dd class="glossary">A body of water protected from the weather by virtue of its being mostly surrounded by land, and deep enough to provide <span title="See entry on this page at § anchorage" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(A-L)#anchorage" title="Glossary of nautical terms (A-L)">anchorage</a></span> for the vessels using it.</dd>
 
@@ -3804,10 +3804,10 @@ To bring a vessel into the wind and hold her stationary. A vessel doing this is 
 
 <dt class="glossary" id="nun" style="margin-top: 0.4em;"><dfn class="glossary">nun</dfn></dt>
 <dd class="glossary">A type of navigational <span title="See entry on this page at § buoy" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(A-L)#buoy" title="Glossary of nautical terms (A-L)">buoy</a></span>, often cone-shaped, but if not, always triangular in silhouette, colored green in <a href="/wiki/Lateral_mark#Region_A" title="Lateral mark">IALA region A</a> or red in <a href="/wiki/Lateral_mark#Region_B" title="Lateral mark">IALA region B</a> (the Americas, Japan, Korea, and the Philippines). In channel marking its use is opposite that of a "can buoy".</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=3" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="oakum" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Oakum" title="Oakum">oakum</a></dfn></dt>
 <dd class="glossary">Any material, often tarred <a href="/wiki/Hemp" title="Hemp">hemp</a> fibres picked from old untwisted ropes, used for <span title="See entry on this page at § caulking" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(A-L)#caulking" title="Glossary of nautical terms (A-L)">caulking</a></span> gaps or seams between the planks of <span title="See entry on this page at § hull" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(A-L)#hull" title="Glossary of nautical terms (A-L)">hulls</a></span>.</dd>
 
@@ -3947,10 +3947,10 @@ To bring a vessel into the wind and hold her stationary. A vessel doing this is 
 
 <dt class="glossary" id="ox-eye" style="margin-top: 0.4em;"><dfn class="glossary">ox-eye</dfn></dt>
 <dd class="glossary">A cloud or other weather phenomenon that may be indicative of an upcoming storm.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=4" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="packet" style="margin-top: 0.4em;"><dfn class="glossary">packet</dfn></dt><span class="anchor" id="Packet_boat"></span><span class="anchor" id="Packet_ship"></span>
 <p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>packet boat</b> or <b>packet ship</b>.</span></p>
 <dd class="glossary">1.&#160;&#160;Originally, a vessel employed to carry post office mail packets to and from British embassies, colonies, and outposts.</dd>
@@ -4244,10 +4244,10 @@ To bring a vessel into the wind and hold her stationary. A vessel doing this is 
 
 <dt class="glossary" id="purser" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Purser" title="Purser">purser</a></dfn></dt>
 <dd class="glossary">The person who buys, stores, and sells all stores on board ships, including victuals, rum, and tobacco. Originally a private merchant, latterly a warrant officer.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=5" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="quarter" style="margin-top: 0.4em;"><dfn class="glossary">quarter</dfn></dt> 
 <dd class="glossary">Designation for the aft part of the ship between 120° and 180° to starboard, or 180° and 240° to port.</dd>
 
@@ -4279,10 +4279,10 @@ To bring a vessel into the wind and hold her stationary. A vessel doing this is 
 
 <dt class="glossary" id="quoin" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quoin_(gunnery)" class="mw-redirect" title="Quoin (gunnery)">quoin</a></dfn></dt>
 <dd class="glossary">A wedge used to assist in the aiming of a cannon</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=6" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="rabbet" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Rabbet" title="Rabbet">rabbet</a></dfn></dt><span class="anchor" id="rebate"></span>
 <p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>rebate</b>.</span></p>
 <dd class="glossary">A groove cut in wood to form part of a joint.</dd>
@@ -4553,10 +4553,10 @@ To bring a vessel into the wind and hold her stationary. A vessel doing this is 
 
 <dt class="glossary" id="running_rigging" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Running_rigging" title="Running rigging">running rigging</a></dfn></dt>
 <dd class="glossary"><p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>running gear</b>.</span></p><a href="#rigging"><span title="See entry on this page at § rigging" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Rigging</span></a> used to manipulate <a href="#sail"><span title="See entry on this page at § sail" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sails</span></a>, <a href="#spar"><span title="See entry on this page at § spar" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">spars</span></a>, etc. in order to control the movement of a sailing vessel. Contrast <i><a href="#standing_rigging"><span title="See entry on this page at § standing rigging" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">standing rigging</span></a></i>.<sup id="cite_ref-FOOTNOTEBiddlecombe199026_29-0" class="reference"><a href="#cite_note-FOOTNOTEBiddlecombe199026-29">&#91;29&#93;</a></sup></dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=7" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="safe_harbour" style="margin-top: 0.4em;"><dfn class="glossary">safe harbour</dfn></dt>
 <dd class="glossary">A <dfn id=""><a href="/wiki/Glossary_of_nautical_terms#harbour" class="mw-redirect" title="Glossary of nautical terms"><span title="See entry at: Glossary of nautical terms § harbour" style="color:inherit;" class="glossary-link">harbour</span></a></dfn> that provides safety from bad weather or attack.</dd>
 
@@ -5525,10 +5525,10 @@ A propeller drive system similar to the lower part of an <dfn id=""><a href="/wi
 
 <dt class="glossary" id="swinging_the_ship" style="margin-top: 0.4em;"><dfn class="glossary">swinging the ship</dfn></dt>
 <dd class="glossary">Turning the ship and steadying her on various headings while taking bearings on reference points to measure the accuracy of her magnetic compass. Essentially synonymous with <i>swinging the compass</i> (<i>q.v.</i>).</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=8" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="tabernacle" style="margin-top: 0.4em;"><dfn class="glossary">tabernacle</dfn></dt>
 <p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>mast case</b>.</span></p>
 <dd class="glossary">A large bracket attached firmly to the <span title="See entry on this page at § deck" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(A-L)#deck" title="Glossary of nautical terms (A-L)">deck</a></span>, to which the foot of the <a href="#mast"><span title="See entry on this page at § mast" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mast</span></a> is fixed. It has two sides or cheeks and a bolt forming the pivot around which the mast is raised and lowered.<sup id="cite_ref-Thames_Sailing_Barge_glossary_2-53" class="reference"><a href="#cite_note-Thames_Sailing_Barge_glossary-2">&#91;2&#93;</a></sup></dd>
@@ -5886,10 +5886,10 @@ A propeller drive system similar to the lower part of an <dfn id=""><a href="/wi
 
 <dt class="glossary" id="tye" style="margin-top: 0.4em;"><dfn class="glossary">tye</dfn></dt>
 <dd class="glossary">A chain or rope used for hoisting or lowering a <a href="#yard"><span title="See entry on this page at § yard" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">yard</span></a>. A tye runs from the horizontal center of a given yard to a corresponding <a href="#mast"><span title="See entry on this page at § mast" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mast</span></a> and from there down to a <a href="#tackle"><span title="See entry on this page at § tackle" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">tackle</span></a>. Sometimes more specifically called a <i>chain tye</i> or a <i>rope tye</i>.<sup id="cite_ref-FOOTNOTEUnderhill1955115_72-6" class="reference"><a href="#cite_note-FOOTNOTEUnderhill1955115-72">&#91;72&#93;</a></sup></dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=9" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="unassisted_sailing" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Unassisted_sailing" title="Unassisted sailing">unassisted sailing</a></dfn></dt>
 <dd class="glossary">Any sailing voyage, usually single-handed, with no intermediate stops or physical assistance from external sources.</dd>
 
@@ -5933,10 +5933,10 @@ A propeller drive system similar to the lower part of an <dfn id=""><a href="/wi
 
 <dt class="glossary" id="upper-yardmen" style="margin-top: 0.4em;"><dfn class="glossary">upper-yardmen</dfn></dt>
 <dd class="glossary">Specially selected personnel destined for high office.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2022)">citation needed</span></a></i>&#93;</sup></dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=10" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="v-hull" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/V-hull_(boat)" title="V-hull (boat)">V-hull</a></dfn></dt>
 <dd class="glossary">The shape of a boat or ship in which the sections of the <span title="See entry on this page at § hull" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(A-L)#hull" title="Glossary of nautical terms (A-L)">hull</a></span> bottom slope downward in a straight line to the <span title="See entry on this page at § keel" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(A-L)#keel" title="Glossary of nautical terms (A-L)">keel</a></span>.</dd>
 
@@ -5984,10 +5984,10 @@ A propeller drive system similar to the lower part of an <dfn id=""><a href="/wi
 
 <dt class="glossary" id="voyl" style="margin-top: 0.4em;"><dfn class="glossary">voyl</dfn></dt>
 <dd class="glossary">See <i><a href="#viol"><span title="See entry on this page at § viol" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">viol</span></a></i>.<sup id="cite_ref-FOOTNOTEBiddlecombe199036_91-2" class="reference"><a href="#cite_note-FOOTNOTEBiddlecombe199036-91">&#91;90&#93;</a></sup></dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=11" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="waft" style="margin-top: 0.4em;"><dfn class="glossary">waft</dfn></dt>
 <dd class="glossary">Another name for a <a href="#signal_flag"><span title="See entry on this page at § signal flag" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">signal flag</span></a>.</dd>
 
@@ -6225,10 +6225,10 @@ A propeller drive system similar to the lower part of an <dfn id=""><a href="/wi
 <div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:USCGC_Eagle_cable_preservation_sample2.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/USCGC_Eagle_cable_preservation_sample2.JPG/220px-USCGC_Eagle_cable_preservation_sample2.JPG" decoding="async" width="220" height="99" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/USCGC_Eagle_cable_preservation_sample2.JPG/330px-USCGC_Eagle_cable_preservation_sample2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/USCGC_Eagle_cable_preservation_sample2.JPG/440px-USCGC_Eagle_cable_preservation_sample2.JPG 2x" data-file-width="2359" data-file-height="1065" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:USCGC_Eagle_cable_preservation_sample2.JPG" class="internal" title="Enlarge"></a></div>Example of the preservation of a <span title="See entry on this page at § cable" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(A-L)#cable" title="Glossary of nautical terms (A-L)">cable</a></span>, showing different sections serviced by various techniques, including <b><a href="#worm,_parcel_and_serve"><span title="See entry on this page at § worm, parcel and serve" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">worming, parcelling and serving</span></a></b></div></div></div>
 <dt class="glossary" id="wrecking_tug" style="margin-top: 0.4em;"><dfn class="glossary">wrecking tug</dfn></dt>
 <dd class="glossary">Another name for a <a href="#salvage_tug"><span title="See entry on this page at § salvage tug" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">salvage tug</span></a>.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=12" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="xebec" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Xebec" title="Xebec">xebec</a></dfn></dt>
 <p class="glossary-hatnote"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><span role="note" class="hatnote navigation-not-searchable selfref">Variously spelled <b>zebec</b>, <b>xebeck</b>, <b>xebeque</b>, <b>xebecque</b>, <b>zebeck</b>, <b>zebecque</b>, <b>chebec</b>, or <b>shebeck</b>.</span></p>
 <dd class="glossary">1.&#160;&#160;A Mediterranean sailing ship, usually employed for trading, that is propelled by a combination of <span title="See entry on this page at § lateen rig" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(A-L)#lateen_rig" title="Glossary of nautical terms (A-L)">lateen sails</a></span> and oars and characterized by a distinctive hull with a pronounced overhanging <span title="See entry on this page at § bow" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(A-L)#bow" title="Glossary of nautical terms (A-L)">bow</a></span> and <a href="#stern"><span title="See entry on this page at § stern" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">stern</span></a>; early xebecs had two <a href="#mast"><span title="See entry on this page at § mast" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">masts</span></a> and later ones had three.</dd>
@@ -6240,10 +6240,10 @@ A propeller drive system similar to the lower part of an <dfn id=""><a href="/wi
 <dt class="glossary" id="x.o._(or_xo)" style="margin-top: 0.4em;"><dfn class="glossary">X.O. (or XO)</dfn></dt><span class="anchor" id="XO"></span>
 <dd class="glossary">An abbreviation for <span title="See entry on this page at § executive officer" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id=""><a href="/wiki/Glossary_of_nautical_terms_(A-L)#executive_officer" title="Glossary of nautical terms (A-L)">executive officer</a></span>.</dd>
 
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=13" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="yacht" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Yacht" title="Yacht">yacht</a></dfn></dt><dd class="glossary">A recreational boat or ship; the term includes <i>sailing yachts</i>, <i>motor yachts</i>, and <i>steam yachts</i>.</dd>
 <dt class="glossary" id="yard" style="margin-top: 0.4em;"><dfn class="glossary">yard</dfn></dt>
 <dd class="glossary">1.&#160;&#160;<a href="/wiki/Yard_(sailing)" title="Yard (sailing)">Yard</a>: The horizontal spar from which a square sail is suspended.<sup id="cite_ref-FOOTNOTEBiddlecombe199038_98-1" class="reference"><a href="#cite_note-FOOTNOTEBiddlecombe199038-98">&#91;97&#93;</a></sup></dd>
@@ -6277,10 +6277,9 @@ A propeller drive system similar to the lower part of an <dfn id=""><a href="/wi
 
 <dt class="glossary" id="yeoman" style="margin-top: 0.4em;"><dfn class="glossary">yeoman</dfn></dt>
 <dd class="glossary">A US Navy enlisted rating (YN) responsible for administrative duties.</dd>
-</dl>
+
 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1098327943"/>
 <h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_nautical_terms_(M-Z)&amp;action=edit&amp;section=14" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl class="glossary">
+
 <dt class="glossary" id="zebec" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Xebec" title="Xebec">zebec</a></dfn></dt><dd class="glossary">An alternative spelling of <i>xebec</i> (<i>q.v.</i>).</dd>
 <dt class="glossary" id="zulu" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zulu_(fishing_boat)" class="mw-redirect" title="Zulu (fishing boat)">zulu</a></dfn></dt><dd class="glossary">A type of Scottish sailboat introduced in 1879, used for fishing. A zulu is <a href="/wiki/Carvel_(boat_building)" title="Carvel (boat building)">carvel</a>-built (<i>q.v.</i>), with the vertical stem of a <a href="/wiki/Fifie" title="Fifie">fifie</a> (<i>q.v.</i>) and the steeply raked stern of a <a href="/wiki/Skaffie" class="mw-redirect" title="Skaffie">skaffie</a> (<i>q.v.</i>); two masts rigged with three sails (fore, mizzen, and jib); and a longer deck and shorter keel than previous Scottish fishing boats, allowing greater maneuverability. The term "zulu" came from the <a href="/wiki/Zulu_War" class="mw-redirect" title="Zulu War">Zulu War</a>, which the United Kingdom fought in 1879 at the time the zulu was introduced.</dd>
-</dl>
