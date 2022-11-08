@@ -1,3 +1,19 @@
+"Introduction (Wikipedia Glossary of Graph Theory Terms)"|"
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A-L)"">Wikipedia's Glossary of nautical terms (A-L)</a> &amp; <a href=""https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M-Z)"">Wikipedia's Glossary of nautical terms (M-Z)</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Wikipedia Glossary of Nautical Terms)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nautical-Terms-Flashcards""></a><a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Nautical-Terms-Flashcards"">https://github.com/darigovresearch/Wikipedia-Glossary-of-Nautical-Terms-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A-L)"">""Glossary of nautical terms (A-L)""</a> &amp; <a href=""https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M-Z)"">""Glossary of nautical terms (M-Z)""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>To see this work in full go to</p>
+<p><a href=""https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A-L)"">https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A-L)</a>
+<a href=""https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M-Z)"">https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(M-Z)</a></p>
+"
 "AAW (Wikipedia Glossary of Nautical Terms)"|"
 <dd class=""glossary"">An acronym for <a href=""https://en.wikipedia.org/wiki/Anti-aircraft_warfare"" title=""Anti-aircraft warfare"">anti-aircraft warfare</a>.</dd>
 "
